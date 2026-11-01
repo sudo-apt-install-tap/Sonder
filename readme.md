@@ -71,3 +71,17 @@ The case is a two part design: a main body that holds the PCB, and a separate fr
 
 ## BOM
 
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| [PCB](https://jlcpcb.com/) | Printed circuit board | 1 | $1.50 | $1.50 | [JLCPCB](https://jlcpcb.com/) |
+| [PCM5102 I2S Digital Audio DAC Decoder Module](https://hubtronics.in/pcm5102-i2s-digital-audio-dac-decoder-module) | I2S audio output | 1 | $5.00 | $5.00 | [Hubtronics](https://hubtronics.in/pcm5102-i2s-digital-audio-dac-decoder-module) |
+| [Robocraze ESP32 38 Pin](https://www.amazon.in/dp/B078MNG9D5) | MCU | 1 | $6.50 | $6.50 | [Amazon](https://www.amazon.in/dp/B078MNG9D5) |
+| [SD Card Reader Module](https://robu.in/product/micro-sd-card-module/) | Reads the SD card over SPI | 1 | $1.00 | $1.00 | [Robu.in](https://robu.in/product/micro-sd-card-module/) |
+| [0.96 Inch I2C/IIC 4pin OLED Display](https://robu.in/product/4pin-oled-display-module-blue-color/) | Shows the current track and volume | 1 | $2.00 | $2.00 | [Robu.in](https://robu.in/product/4pin-oled-display-module-blue-color/) |
+| [Rotary Encoder with Switch](https://robu.in/product/hongyan-ec11h-7ce20p1zd20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/) | Volume and push | 1 | $1.00 | $1.00 | [Robu.in](https://robu.in/product/hongyan-ec11h-7ce20p1zd20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/) |
+| [Tactile push buttons 6x6x8 [Pack of 20]](https://robu.in/product/6x6x8mm-tactile-push-button-switch-pack-of-20/) | Previous, play/pause, next, menu | 1 | $0.50 | $0.50 | [Robu.in](https://robu.in/product/6x6x8mm-tactile-push-button-switch-pack-of-20/) |
+| [HIKVISION Extreme 16GB microSDXC Memory Card](https://www.amazon.in/HIKVISION-microSDXC-Compitable-Smartphones-Protection/dp/B0GVJZ56K5) | Stores the music | 1 | $6.50 | $6.50 | [Amazon](https://www.amazon.in/HIKVISION-microSDXC-Compitable-Smartphones-Protection/dp/B0GVJZ56K5) |
+| [Case 3D printing](https://hackclub.slack.com/archives/C083P4FJM46/p1793539514844309) | Case | 1 | $3.00 | $3.00 | [Print Legion](https://hackclub.slack.com/archives/C083P4FJM46/p1793539514844309) |
+| **Parts subtotal** | — | — | — | **$27.00** | — |
+| **Tax & shipping** | — | — | — | **$3.00** | — |
+| **Total** | — | — | — | **$30.00** | — |
